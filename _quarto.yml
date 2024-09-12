@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "sta304 data"
+  title: "Diana's Page"
   navbar:
     left:
       - href: index.qmd
@@ -11,7 +11,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: Pulse
     css: styles.css
     toc: true
 
